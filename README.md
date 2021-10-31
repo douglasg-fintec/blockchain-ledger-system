@@ -3,8 +3,9 @@ Your task is to build a blockchain-based ledger system, complete with a user-fri
 
 
 
-![Screenshot](\Images\PyChain_Multple_Block_Entries.PNG)
+
+https://github.com/douglasg-fintec/blockchain-ledger-system/blob/main/Images/PyChain_Multple_Block_Entries.PNG?raw=true
 
 
+https://github.com/douglasg-fintec/blockchain-ledger-system/blob/main/Images/PyChain_Multple_Block_Entries-VALIDATED_CHAIN.PNG?raw=true
 
-![Screenshot](\Images\PyChain_Multple_Block_Entries_VALIDATED-CHAIN.PNG)
