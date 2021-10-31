@@ -3,8 +3,8 @@ Your task is to build a blockchain-based ledger system, complete with a user-fri
 
 
 
-![Screenshot](Images\PyChain_Multple_Block_Entries.PNG)
+![Screenshot](\Images\PyChain_Multple_Block_Entries.PNG)
 
 
 
-![Screenshot](Images\PyChain_Multple_Block_Entries_VALIDATED-CHAIN.PNG)
+![Screenshot](\Images\PyChain_Multple_Block_Entries_VALIDATED-CHAIN.PNG)
