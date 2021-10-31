@@ -6,6 +6,6 @@ Your task is to build a blockchain-based ledger system, complete with a user-fri
 
 ![alt text](/Images/PyChain_Multple_Block_Entries.PNG)
 
-## Screenshot of the Streamlit application page, which indicate the validity of the blockchain
+## Screenshot of the Streamlit application page, which indicates the validity of the blockchain
 
 ![alt text](/Images/PyChain_Multple_Block_Entries_VALIDATED-CHAIN.PNG)
